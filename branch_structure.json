@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/offline-indicator-queued-count",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/offline-indicator-queued-count": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/offline-indicator-queued-count",
+    "origin"
+  ]
+}
